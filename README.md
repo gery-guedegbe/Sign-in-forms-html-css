@@ -23,7 +23,7 @@ Ce projet est une interface de connexion et d'inscription avec validation des ch
 
 1. Clonez le dépôt :
    ```sh
-   github.com/gery-guedegbe/Sign-in-forms-html-css.git
+   git clone https://github.com/gery-guedegbe/Sign-in-forms-html-css.git
    ```
 2. Ouvrez le fichier `index.html` dans votre navigateur.
 
